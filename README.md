@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# learn_flutter
+Learning flutter by doing
+
+- Creating basic layout in flutter, Aim to learn how to create simple layout and how to maintain states in flutter.
+- Navigation in flutter (both named and unnamed navigation)
+- Creating form element (consisting of toggle buttons, textfield and button and all)
+- Understanding of stateful and stateless widgets
+- Understanding of lifecycle of stateful flutter app.
